@@ -16,3 +16,5 @@ git status ：查看当前版本状态
 git diff fileName : 查看修改前后文件的不同
 
 git log ：显示从最近到最远的提交日志,git log --pretty=oneline: 查看简单日志
+
+这是用新分支dev修改的代码。
